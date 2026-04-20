@@ -1,0 +1,9 @@
+numpy
+pandas
+torch
+scikit-learn
+tiktoken
+torch
+ipykernel 
+jupyter
+notebook
